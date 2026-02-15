@@ -5,6 +5,12 @@
 		"type": "PE",
 		"favicon": "lifeboat.png"
 	},
+    {
+		"name": "MegaSMP",
+		"ip": "play.megasmp.gg",
+		"type": "PE",
+		"favicon": "megasmp.png"
+	},
 	{
 		"name": "Mineville",
 		"ip": "play.inpvp.net",
