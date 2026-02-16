@@ -5,6 +5,18 @@
 		"type": "PE",
 		"favicon": "lifeboat.png"
 	},
+    {
+		"name": "GenWars",
+		"ip": "play.genwars.com",
+		"type": "PE",
+		"favicon": "genwars.png"
+	},
+    {
+		"name": "MegaSMP",
+		"ip": "play.megasmp.gg",
+		"type": "PE",
+		"favicon": "megasmp.png"
+	},
 	{
 		"name": "Mineville",
 		"ip": "play.inpvp.net",
