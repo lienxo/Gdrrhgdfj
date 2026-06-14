@@ -1,4 +1,4 @@
-FROM node:16
+FROM node:18
 
 ARG TINI_VER="v0.19.0"
 
@@ -27,6 +27,6 @@ RUN addgroup --gid 10043 --system minetrack \
  && chown -R minetrack:minetrack /usr/src/minetrack
 USER minetrack
 
-EXPOSE 8080
+EXPOSE 7860
 
 ENTRYPOINT ["/sbin/tini", "--", "node", "main.js"]
